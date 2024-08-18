@@ -7,78 +7,48 @@ Java后端学习
 <h2 class="topic">
 <a name="2kt70a5sr7l6k0va6b75hkifdv"> 编程基础</a>
 </h2>
-<h3 class="topic">
-<a name="5tr028560e99nnlqankn19uo95">&nbsp; Java语言</a>
-</h3>
-<h3 class="topic">
-<a name="4ei64rcau5j31s3dturo1c3agf">&nbsp;&nbsp; 基础语法</a>
-</h3>
-<h3 class="topic">
-<a name="2d7462vb1j46iu676hgbpha22h">&nbsp;&nbsp; 面向对象</a>
-</h3>
-<h3 class="topic">
-<a name="2ndung927pq0ied8spluqseeab">&nbsp;&nbsp; 接口</a>
-</h3>
-<h3 class="topic">
+
+- Java语言
+- 基础语法
+- 面向对象
+- 接口
+
+<h2 class="topic">
 <a name="27t36usbtfdvitfv2fall2r6fn">&nbsp; 数据结构与算法</a>
-</h3>
-<h3 class="topic">
-<a name="4urf84poncjgugun8k1kme23b4">&nbsp;&nbsp; 数据结构</a>
-</h3>
-<h3 class="topic">
-<a name="504t6n9kbaktrbe7ua1d0r02no">&nbsp;&nbsp;&nbsp; 字符串</a>
-</h3>
-<h3 class="topic">
-<a name="3s9tqdgp4e5meoqqmtaq6tkr2r">&nbsp;&nbsp;&nbsp; 数组</a>
-</h3>
-<h3 class="topic">
-<a name="5fmsa03m7ol13efmhn1d3lbirn">&nbsp;&nbsp;&nbsp; 链表</a>
-</h3>
-<h3 class="topic">
-<a name="59ogrea3nb1f3vgvj4f3ng8qor">&nbsp;&nbsp;&nbsp; 二叉树</a>
-</h3>
-<h3 class="topic">
-<a name="5fnsdbt7sim3e537p3ndvi5q6e">&nbsp;&nbsp;&nbsp; 堆、栈、队列</a>
-</h3>
-<h3 class="topic">
-<a name="03koqpacsk8tqak75jqvg3vt3i">&nbsp;&nbsp;&nbsp; 哈希表</a>
-</h3>
-<h3 class="topic">
+</h2>
+
+- 数据结构
+- 字符串
+- 数组
+- 链表
+- 二叉树
+- 堆、栈、队列
+- 哈希表
+
+<h2 class="topic">
 <a name="238o4ti4r7eg1u6p8ohmfpv2vd">&nbsp;&nbsp; 算法</a>
-</h3>
-<h3 class="topic">
-<a name="0ea2bfnuqljce4aig5ujgd7upk">&nbsp;&nbsp;&nbsp; 查找</a>
-</h3>
-<h3 class="topic">
-<a name="7d77mjed1p9ph0ob61mm9dgg1u">&nbsp;&nbsp;&nbsp; 排序</a>
-</h3>
-<h3 class="topic">
-<a name="3f456vboht0992ilok8ri1pn8a">&nbsp;&nbsp;&nbsp; 贪心</a>
-</h3>
-<h3 class="topic">
-<a name="4l167176ieh9uk706b2rr2v92b">&nbsp;&nbsp;&nbsp; 分治</a>
-</h3>
-<h3 class="topic">
-<a name="3g3e3a0dvheq7fvbq5g39g8du1">&nbsp;&nbsp;&nbsp; 动态规划</a>
-</h3>
+</h2>
+
+- 查找
+- 排序
+- 贪心
+- 分治
+- 动态规划
+- 
 <h3 class="topic">
 <a name="08pnnstrld6mvo07mvt2fg2r6r">&nbsp;计算机网络</a>
 </h3>
-<h3 class="topic">
-<a name="40298mv7ijqu833gpf4464tj5l">&nbsp;&nbsp; IP/ICMP协议</a>
-</h3>
-<h3 class="topic">
-<a name="3nvn0v0r5d0kts371shk91bsu3">&nbsp;&nbsp; Session/Cookie</a>
-</h3>
+
+- IP/ICMP协议
+-bSession/Cookie
+
 <h3 class="topic">
 <a name="5gdppg93rt4p5mvt96cvfqqckk">&nbsp; 数据库/SQL</a>
 </h3>
-<h3 class="topic">
-<a name="7knmu3iq6h6bcoe9ulho5u1bjs">&nbsp;&nbsp;SQL语句书写</a>
-</h3>
-<h3 class="topic">
-<a name="1mfi0k7l82kuoin9m42s7remlu">&nbsp;&nbsp; SQL语句优化</a>
-</h3>
+
+- SQL语句书写
+- SQL语句优化
+
 <h2 class="topic">
 <a name="7omcn73hfqc1qlcjnd8brpgeqd"> 研发工具</a>
 </h2>
